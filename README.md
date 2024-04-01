@@ -8,7 +8,7 @@ passionate about learning new tech
 
 * 🌍  I'm based in bhubaneswar
 * ✉️  You can contact me at [b321017@iiit-bh.ac.in](mailto:b321017@iiit-bh.ac.in)
-* 🧠  I'm learning deep learniung
+* 🧠  I'm learning deep learning
 * 🤝  I'm open to collaborating on Projects
 * ⚡  lets colabbbb
 
